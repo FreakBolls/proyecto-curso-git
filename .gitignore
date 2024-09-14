@@ -1,0 +1,10 @@
+#para que no se compartan 
+#ignorar archivosde entorno
+.env
+#ignorar archivos temporales
+.log
+#
+node_modules 
+*.jpg
+*.mp4
+
